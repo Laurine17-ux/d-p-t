@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description courant="AFFICHER &quot;Culture numérique &quot;" texte=""/>
+    <description courant="AFFICHER &quot;Workflow&quot;" texte=""/>
     <extension extnom="inactif"/>
     <fonction fctcode="" fctetat="inactif"/>
     <F2 F2etat="inactif" F2para="" F2lignes="" F2defaut=""/>
@@ -13,6 +13,7 @@
     <item code="101#debutalgo" algoitem="DEBUT_ALGORITHME">
         <item code="2#i#pasliste" algoitem="LIRE i"/>
         <item code="4#Culture numérique #0" algoitem="AFFICHER &quot;Culture numérique &quot;"/>
+        <item code="4#Workflow#0" algoitem="AFFICHER &quot;Workflow&quot;"/>
     </item>
     <item code="102#finalgo" algoitem="FIN_ALGORITHME"/>
 </Algo>
