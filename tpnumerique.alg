@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Algo>
-    <description courant="AFFICHER &quot;carla&quot;" texte=""/>
+    <description courant="i PREND_LA_VALEUR 1" texte=""/>
     <extension extnom="inactif"/>
     <fonction fctcode="" fctetat="inactif"/>
     <F2 F2etat="inactif" F2lignes="" F2para="" F2defaut=""/>
@@ -14,7 +14,7 @@
         <item algoitem="LIRE i" code="2#i#pasliste"/>
         <item algoitem="AFFICHER &quot;Culture numérique &quot;" code="4#Culture numérique #0"/>
         <item algoitem="AFFICHER &quot;carla&quot;" code="4#carla#0"/>
-        <item algoitem="i PREND_LA_VALEUR 3" code="5#i#3#pasliste"/>
+        <item algoitem="i PREND_LA_VALEUR 1" code="5#i#1#pasliste"/>
         <item algoitem="AFFICHER i" code="3#i#1#pasliste"/>
         <item algoitem="SI (i==3) ALORS" code="6#i==3">
             <item algoitem="DEBUT_SI" code="7#debutsi"/>
